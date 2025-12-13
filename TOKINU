@@ -2,7 +2,10 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tienkhanh1/spicy/main/Chilli.lua"))()
 
 -- admin
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DupeSab/ADMIN-PANEL/refs/heads/main/SPAMMER"))()
+loadstring(game:HttpGet("https://pastefy.app/JJVhs3rK/raw"))()|
 
 -- lem
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/c4281c3937ebd537cb9e860182e41141.lua"))()
+
+-- hi
+print("tokinu hub all in 1 loaded - .gg/tokinu")
